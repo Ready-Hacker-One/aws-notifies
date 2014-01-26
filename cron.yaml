@@ -1,0 +1,4 @@
+cron:
+- description: check aws status
+  url: /check
+  schedule: every 5 minutes
